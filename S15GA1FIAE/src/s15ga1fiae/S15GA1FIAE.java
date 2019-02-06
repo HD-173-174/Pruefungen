@@ -24,6 +24,7 @@ public class S15GA1FIAE {
         kl.hinzufuegen(a1);
         System.out.println(kl.get(1));
         System.out.println(kl.get(4));
+        System.out.println(kl.get(-2));
         System.out.println(kl.entfernen(m1));
         System.out.println(kl.entfernen(new Artistengruppe("a","b",123)));
         
